@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="logo.png" width="150" alt="Logo Telkom University Purwokerto">
+<img src="103122400007_Putra Anugrah Pamungkas\Tugas-1\logo.png" width="150" alt="Logo Telkom University Purwokerto">
 
 <br>
 <br>
